@@ -1,0 +1,8 @@
+Write a CRUD Operations For Following case study
+
+to create product 
+to update a product
+to delete a product
+to getall product
+to display one product based on productid
+to display all products whose name starts with s
